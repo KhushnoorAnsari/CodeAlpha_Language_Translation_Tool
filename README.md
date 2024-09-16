@@ -1,4 +1,5 @@
-# CodeAlpha Language Translator Tool
+# CodeAlpha
+Language Translator Tool
 
 CodeAlpha Language Translator Tool is a simple language translation application built using Python's Tkinter for the GUI and the Googletrans API for language translation. This tool allows users to input text in one language, choose a source and target language, and get a translation.
 
@@ -31,6 +32,9 @@ CodeAlpha Language Translator Tool is a simple language translation application 
 
 - `main.py`: The main script containing the GUI code and the translation logic.
 - `README.md`: This file, with instructions on how to use the project.
+- `requirements.txt`: Specifies the dependencies for the project.
+- `LICENSE`: The MIT License for this project.
+- `Project_Video.mp4`: A video demonstration of the project.
 
 ## Usage
 
